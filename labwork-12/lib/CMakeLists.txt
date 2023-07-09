@@ -1,0 +1,1 @@
+add_library(sql  SQLClass.h SQLClass.cpp Table.h Table.cpp CreateTableRequest.h CreateTableRequest.cpp AbstractValueType.h AbstractValueType.cpp WhereParser.h WhereParser.cpp GlobalFunctions.h)

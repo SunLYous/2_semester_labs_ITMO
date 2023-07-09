@@ -1,0 +1,1 @@
+add_library(algorithm XrangeClass.cpp XrangeClass.h StandardAlgorithm.cpp StandardAlgorithm.h ZipClass.h)
